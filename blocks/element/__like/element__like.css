@@ -1,0 +1,12 @@
+.element__like {
+    align-self: center;
+    transition: opacity .2s ease-out;
+}
+
+.element__like:hover {
+    opacity: .5;
+}
+
+.element__like:active {
+    background: #000;
+}
