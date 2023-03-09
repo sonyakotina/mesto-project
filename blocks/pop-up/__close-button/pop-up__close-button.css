@@ -4,6 +4,13 @@
     right: -40px;
     transition: opacity .2s ease-out;
     cursor: pointer;
+    border: 0;
+    margin: 0;
+    background-image: url(../../../images/edit-form__close.png);
+    background-size: cover;
+    background-color: unset;
+    width: 32px;
+    height: 32px;
 }
 
 .pop-up__close-button:hover {
