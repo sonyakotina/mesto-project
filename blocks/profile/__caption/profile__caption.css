@@ -12,7 +12,6 @@
 @media screen and (max-width: 1100px) {
     .profile__caption {
         margin: 0px auto;
-        font-weight: 400;
         font-size: 14px;
         line-height: 17px;
     }

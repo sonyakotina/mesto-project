@@ -9,5 +9,6 @@
         justify-content: center;
         position: relative;
         left: 15px;
+        z-index: 0;
     }
 }
