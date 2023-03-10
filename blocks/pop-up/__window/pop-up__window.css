@@ -4,11 +4,4 @@
     align-self: center;
     position: relative;
     margin: 0px auto;
-    height: 330px;
-}
-
-@media screen and (max-width: 1100px) {
-    .pop-up__window {
-        height: 322px;
-    }
 }
